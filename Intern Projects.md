@@ -27,7 +27,7 @@ Build a user profile management API with authentication.
 
 ## **Submission**
 
-* GitHub repository with code  
+* GibtHu repository with code  
 * README with setup instructions  
 * Postman Documentation  
 * Sample .env file
